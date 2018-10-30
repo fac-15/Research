@@ -1,4 +1,14 @@
 # Research
 
 ### :wave: Welcome to the repo for your research! :zap: </br>
-:sparkles: Please upload your notes into folders separated by week! :sparkles:
+
+### :sparkles: Please upload the notes from your research here: :sparkles:
+1. Upload your notes in the folder corresponding to the current week (weeks 1-8)
+2. If there **is no folder** for your current week, you are the first one to upload a file and have honour of making it! :tada:
+
+##### How do I make a new folder?
+3. click the `Create new file` button
+![]()
+4. Include the week number in the filepath on top of the new file (make sure to type `week#/[your reseach topic].md`)
+![]()
+5. Click `Commit changes` at the bottom - no need to fill in any commit messages or wait for approval
