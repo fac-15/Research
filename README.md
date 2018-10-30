@@ -12,3 +12,7 @@
 4. Include the week number in the filepath on top of the new file (make sure to type `week#/[your research topic].md`)</br>
 ![filepath](https://github.com/fac-15/Research/blob/master/Screen%20Shot%202018-10-30%20at%2019.43.53.png) 
 5. Click `Commit changes` at the bottom - no need to fill in any commit messages or wait for approval
+
+##### What happens if I don't upload my research?
+6. You will prompted on Gitter for all eternity to do so 
+7. Be smart - upload on the day you write and present it! 
