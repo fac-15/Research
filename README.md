@@ -15,4 +15,5 @@
 
 ##### What happens if I don't upload my research?
 6. You will prompted on Gitter for all eternity to do so 
-7. Be smart - upload on the day you write and present it! 
+7. Be smart - upload on the day you write and present it! </br>
+![be smart](https://github.com/fac-15/Research/blob/master/memetastic.jpg) 
