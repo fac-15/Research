@@ -29,7 +29,7 @@ ARIA roles can be applied to an element like so:
 [More info here](https://a11yproject.com/posts/getting-started-aria/)
 
 ## Key handlers 
-UI controls, such as links, buttons, forms, the <select> tag etc., has the added bonus of by default allowing the user to navigate between them with the keyboard.  
+UI controls, such as links, buttons, forms, the ```<select>``` tag etc., has the added bonus of by default allowing the user to navigate between them with the keyboard.  
 
 ## Using tabindex  
 
