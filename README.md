@@ -7,8 +7,9 @@
 2. If there **is no folder** for your current week, you are the first one to upload a file and have honour of making it! :tada:
 
 ##### How do I make a new folder?
-3. click the `Create new file` button
+3. click the `Create new file` button </br>
 ![create file button](https://github.com/fac-15/Research/blob/master/Screen%20Shot%202018-10-30%20at%2019.39.10.png)
+
 4. Include the week number in the filepath on top of the new file (make sure to type `week#/[your reseach topic].md`)
 ![]()
 5. Click `Commit changes` at the bottom - no need to fill in any commit messages or wait for approval
