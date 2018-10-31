@@ -36,6 +36,49 @@ e.g. **red="\[\033[0;31m\]"** this will create a variable "red" which you can th
 
 which will make everything red.
 
+# -----------------------------
+# ***Git Commands***
+# ------------------------------
+
+**git add [file name]** - Add a file to the staging area.
+
+**git add .** - Adds all files to the staging area.
+
+**git add -A** - Add all new and changed files to the staging area.
+
+
+**git reset [file name]** - Removes named file from staging area.
+
+**git reset** - to undo a git add. This will unstage all the files you have added since your last commit.
+
+**git commit -m "commit message"** - commit changes to head with commit message.
+
+**git commit -a** - commit any files you've added with 'git add', and also commits any files you have changed since then.
+
+### ---------------------------------------
+### Branches
+### ---------------------------------------
+
+**git checkout -b [branch name]** - Create a new branch and switch to it.
+
+**git checkout [branch name]** - Switch from one branch to another.
+
+**git branch** - List all the branches in your repo and also tells you which branch you are currently on.
+
+**git branch -d [branch name]** - Deletes the local branch ONLY if you have pushed and merged it with your remote branches.
+
+**git branch -D [branch name]** - Forcibly deletes the branch regardless of its push and merge status (Be careful).
+
+**git push --all orgin** - pushes all branches to your remote repo.
+
+**git push orgin: [branch name]** - Deletes a remote branch.
+
+**git fetch --all**
+**git checkout [remote branch]** - Two commands used together. git fetch allows you to fetch the contents of a remote branch you can then checkout the branch (see above) like a local branch.
+
+# ------------------------------------------------
+
+
 ***Git Commands***
 
 **git log** - shows the commits made in this repository starting with the most recent.
@@ -51,6 +94,12 @@ which will make everything red.
 **git checkout (with one commit id as argument)** - Temporarily reset all files in a directory to their stat at the time of a specific commit.
 
 **git diff  - - staged** - compare staging area and the most recent commit.
+
+###### We have added a couple of links which you may find helpful in explaining and resolving git conflicts.
+
+https://css-tricks.com/deal-merge-conflicts-git/
+https://githowto.com/resolving_conflicts
+https://www.grandcircus.co/blog/resolving-git-conflicts/
 
 # ----------------------
 # Git Aliases
