@@ -1,7 +1,8 @@
 # Types of Testing 
 
 ## What is a unit test?
-<iframe src="https://giphy.com/embed/STLj8QUhg25pe" width="480" height="216" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-describe-asked-STLj8QUhg25pe"></a></p>
+
+![](https://giphy.com/embed/STLj8QUhg25pe)
 
 Unit testing is a software development process in which the smallest testable parts of an application, called *units*, are individually and independently scrutinized for proper operation. 
 
