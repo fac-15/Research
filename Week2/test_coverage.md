@@ -67,7 +67,7 @@
  - Supports ES2015+ testing with [babel-plugin-istanbul](https://github.com/istanbuljs/babel-plugin-istanbul)
 
 ### [NYC](https://github.com/istanbuljs/nyc)
- - An extension of Istanbul (Istanbul is a dependency of nyc), that _provides support for_ 'applications that spawn processes', and 'ES2015 transformations', via source maps and babel.
+ - An extension of Istanbul (nyc is a dependency of Istanbul), that _provides support for_ 'applications that spawn processes', and 'ES2015 transformations', via source maps and babel.
  - Works well with most JavaScript testing frameworks (those that are more popular than Tape!) - e.g. [Mocha](https://mochajs.org/), Jest, etc.
  - Also works with TypeScript (used in Angular).
  - Extra functionality also includes _stack traces_, which show the order of functions run to achieve the current state of the webpage or application. `console.trace()` provides an implementation of this in the console. [More on Stack Trace](https://code-maven.com/stack-trace-in-javascript).
