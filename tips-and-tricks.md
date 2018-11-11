@@ -131,10 +131,14 @@ In the html, write "<input type="email">" for the email box. Add "<input type=te
 <a name="hamburger-menu"></a>
 ### Hamburger menu
 
+We nicked code from an article for this, and altered it to fit our purpose. Will see if Mike can get the link...
+
 <a name="validation-alert-messages"></a>
 ### Adding alert messages as form validation
 
+We used regex rules, and added an eventListener on the submit button, resulting in a relevant alert message if certain criteria wasn't met (i.e no name inputted, or an invalid email address).
 
+I (Charlie) personally think that other groups' use of the type attribute in the HTML input tag is an easier and nicer way to achieve this! Likewise for the pattern attribute instead of writing out regex rules in the JS file.
 
 
 
