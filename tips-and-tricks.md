@@ -140,6 +140,8 @@ We used regex rules, and added an eventListener on the submit button, resulting 
 
 I (Charlie) personally think that other groups' use of the type attribute in the HTML input tag is an easier and nicer way to achieve this! Likewise for the pattern attribute instead of writing out regex rules in the JS file.
 
+Useful resource for testing regex - https://regex101.com/ . Thanks Hannah
+
 
 
 
