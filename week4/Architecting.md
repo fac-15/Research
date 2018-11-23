@@ -6,8 +6,6 @@ The tasks that are handled in the **back-end** (or **data access layer**) are th
 For websites' back-end we use frameworks (like **NodeJS**, **Firebase**, **PhantomJS** etc.) or **JAVA**.
 The tasks that are handled in the **front end** are all those the final users interact with and happen in a browser.
 
-![something](https://media1.giphy.com/media/SHw5Qx7PdU5kA/giphy.gif?cid=3640f6095bf425f2374d643767d38b30)
-
 ### 1.1 Front-end focused tasks
 - **Markup** and web languages such as HTML, CSS, JavaScript, and ancillary libraries commonly used in those languages such as Sass or JQuery
 - **Asynchronous** request handling and **AJAX**
